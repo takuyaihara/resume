@@ -1,4 +1,8 @@
-# resume
+---
+title: Takuya Ihara - resume
+layout: default
+---
+
 
 このページは GitHub Pages + Jekyll Minimal テーマで構築されています。
 
