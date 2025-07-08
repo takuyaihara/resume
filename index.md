@@ -2,4 +2,5 @@
 
 このページは GitHub Pages + Jekyll Minimal テーマで構築されています。
 
-- [スキル一覧を見る](skills.md)
+- [スキル（仮）](skills.md)
+- [実務経験](projects.md)
