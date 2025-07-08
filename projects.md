@@ -1,5 +1,6 @@
 ---
 title: 実務経験
+permalink: /projects/
 ---
 
 # 実務経験一覧
