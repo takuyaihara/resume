@@ -9,6 +9,12 @@
     <meta name="description" content="{{ site.description }}">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
 
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -19,26 +25,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <h1>{{ site.title }}</h1>
 
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Logo" style="max-width: 160px; margin-bottom: 1rem;" />
 
-        <p><strong>📜 Career Path:</strong><br>
-          バンド ROOTLESS で ONE PIECE 主題歌<br>
-          その後 路頭に迷う ROOTLESS になって<br>
-          今は フリーエンジニアの ROOTLESS
-        </p>
-
-        <p><strong>🧑‍💻 Role:</strong><br>
+        <p><strong>Role:</strong><br>
           Full-Stack Engineer / PM
         </p>
 
-        <p><strong>📧 Email:</strong><br>
-          <a href="mailto:info@takuya-ihara.jp">info@takuya-ihara.jp</a>
-        </p>
-
-        <p><strong>🐙 GitHub:</strong><br>
-          <a href="{{ site.github.owner_url }}" target="_blank">github.com/takuyaihara</a>
+        <p><strong>Career Path:</strong><br>
+          バンド ROOTLESS で ONE PIECE 主題歌<br>
+          その後 路頭に迷う ROOTLESS になって<br>
+          今は フリーエンジニアの ROOTLESS
         </p>
 
       </header>
@@ -48,7 +46,19 @@
       </section>
 
       <footer>
+
+        <a href="mailto:info@takuya-ihara.jp" target="_blank">
+          <i class="fa-solid fa-envelope fa-xl text-black" style="color: black;"></i>
+        </a> 
+        <a href="{{ site.github.owner_url }}" target="_blank" style="margin-left: 0.7em;">
+          <i class="fa-brands fa-github fa-xl text-black" style="color: black;"></i>
+        </a>
+        <a href="https://x.com/ihara_dev" target="_blank" style="margin-left: 0.5em;">
+          <i class="fa-brands fa-x-twitter fa-xl text-black" style="color: black;"></i>
+        </a>
+
         <p><small>Last updated: July 2025</small></p>
+
       </footer>
     </div>
 
