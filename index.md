@@ -3,7 +3,7 @@ title: Takuya Ihara - resume
 layout: default
 ---
 
-## Project Experience List
+## 💼 Project Experience List
 
 |№|Title|Start|End|
 |-|-|-|-|
@@ -32,7 +32,9 @@ layout: default
 |2|[プログラミング教育 IoT Robot 検証](#プログラミング教育-iot-robot-検証)|2018/3|2018/8|
 |1|[遊技機（パチンコ・スロット）開発](#遊技機パチンコスロット開発)|2014/4|2017/3|
 
-## Project Experience
+<br>
+
+## 📝 Project Experience
 
 ### Jekyll + GitHub Pages 作成
 
@@ -42,6 +44,8 @@ layout: default
 - **習得スキル**：Jekyll + GitHub Pages の開発経験
 - **成果**：実績を対外共有する手間が大幅に軽減された。
 - **GitHub**：[takuyaihara/resume](https://github.com/takuyaihara/resume)
+
+---
 
 ### rpgsave Editor Desktop app 開発
 
@@ -53,6 +57,8 @@ layout: default
 - **習得スキル**：React + Electron の開発経験
 - **成果**：.rpgsave を編集する作業が楽になった。
 - **GitHub**：[takuyaihara/rpgsave-editor](https://github.com/takuyaihara/rpgsave-editor)
+
+---
 
 ### MaaS app リファクタリング
 
