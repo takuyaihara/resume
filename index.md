@@ -7,6 +7,7 @@ layout: default
 
 | №   | Title                                                                               | Start   | End     |
 | --- | ----------------------------------------------------------------------------------- | ------- | ------- |
+| 25  | [AI 随筆生成サイト開発](#ai-随筆生成サイト開発)                                     | 2025/7  | 2025/8  |
 | 24  | [Jekyll + GitHub Pages 作成](#jekyll--github-pages-作成)                            | 2025/7  | 2025/7  |
 | 23  | [.rpgsave Editor Desktop app 開発](#rpgsave-editor-desktop-app-開発)                | 2025/6  | 2025/7  |
 | 22  | [MaaS app リファクタリング](#maas-app-リファクタリング)                             | 2025/6  | ～      |
@@ -35,6 +36,20 @@ layout: default
 <br>
 
 ## 📝 Project Experience
+
+### AI 随筆生成サイト開発
+
+- **役割**：PG
+- **担当工程**：フロントエンド・バックエンド実装, 結合・総合テスト
+- **規模**：5 名
+- **業務内容**：LLM API と Laravel を用いた AI 随筆生成サイトの設計・実装
+- **フロントエンド**：HTML（Blade）, CSS, JavaScript
+- **バックエンド**：PHP（Laravel）, AWS（EC2, S3, STS AssumeRole）, MySQL
+- **ツール**：VSCode, Git（GitHub）, Slack
+- **習得スキル**：複数チームが関与する最大手企業案件における、前提・認識差を解消する情報可視化・合意形成の知見
+- **成果**：クライアントとの調整を行い、要件を満たした品質で無事に納品を完了
+
+---
 
 ### Jekyll + GitHub Pages 作成
 
