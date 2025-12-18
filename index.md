@@ -54,10 +54,10 @@ layout: default
 ### Jekyll + GitHub Pages 作成
 
 - **規模**：1 名
-- **内容**：自分の実績を一目で確認できるサイトを Jekyll + GitHub Pages で作成する。
-- **フロントエンド**：HTML, Ruby
-- **習得スキル**：Jekyll + GitHub Pages の開発経験
-- **成果**：実績を対外共有する手間が大幅に軽減された。
+- **内容**：自分の実績を一目で確認できるポートフォリオサイトの作成
+- **技術**：HTML, CSS, Jekyll, GitHub Pages
+- **習得スキル**：Jekyll と GitHub Pages を用いたポートフォリオサイト構築の知見
+- **成果**：実績を対外共有する手間が大幅に軽減された
 - **GitHub**：[takuyaihara/resume](https://github.com/takuyaihara/resume)
 
 ---
