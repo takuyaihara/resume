@@ -65,12 +65,11 @@ layout: default
 ### rpgsave Editor Desktop app 開発
 
 - **規模**：1 名
-- **内容**：RPG ツクール MV のセーブデータ（.rpgsave）を編集できる Desktop app を個人開発する。
-- **フロントエンド**：HTML, CSS, JavaScript
-- **バックエンド**：React, Electron, TypeScript
-- **ツール**：VSCode, GitHub, ChatGPT Plus
-- **習得スキル**：React + Electron の開発経験
-- **成果**：.rpgsave を編集する作業が楽になった。
+- **内容**：RPG ツクール MV のセーブデータをローカルで編集できる Desktop app の個人開発
+- **技術**：HTML, CSS, JavaScript, React, Electron, TypeScript
+- **ツール**：VSCode, GitHub, ChatGPT
+- **習得スキル**：React + Electron を用いたデスクトップアプリ開発の知見
+- **成果**：セーブデータ編集作業の効率が向上した
 - **GitHub**：[takuyaihara/rpgsave-editor](https://github.com/takuyaihara/rpgsave-editor)
 
 ---
