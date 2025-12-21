@@ -93,13 +93,13 @@ layout: default
 - **役割**：PG
 - **担当工程**：基本設計, 詳細設計, フロントエンド実装, バックエンド実装, 結合テスト, 総合テスト
 - **規模**：2 名
-- **業務内容**：Dify API + WP Plugin を用いて、AI が自動で下書き記事を生成する機能を実装する。
+- **業務内容**：Dify API + WP Plugin を用いた AI による下書き記事自動生成機能の実装
 - **フロントエンド**：HTML, CSS, JavaScript
 - **バックエンド**：PHP（WordPress）
-- **ツール**：Dify, VSCode, chatGPT Plus, Slack
+- **ツール**：Dify, VSCode, ChatGPT, Slack
 - **習得スキル**：Dify API + WP の実務経験
-- **成果**：Dify → WP の手作業が不要になった。
-- **補足**：Dify Workflow は AI ラッパー仕様により実現できなかったので、Dify API + WP Plugin に変更した。
+- **成果**：Dify → WordPress への手動記事作成作業を不要化
+- **補足**：Dify Workflow は AI ラッパー仕様の制約により要件を満たせなかったので Dify API + WordPress プラグイン構成へ変更
 
 ---
 
