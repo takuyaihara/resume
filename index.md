@@ -10,7 +10,7 @@ layout: default
 | 25  | [AI 随筆生成サイト開発](#ai-随筆生成サイト開発)                                     | 2025/7  | 2025/8  |
 | 24  | [Jekyll + GitHub Pages 作成](#jekyll--github-pages-作成)                            | 2025/7  | 2025/7  |
 | 23  | [.rpgsave Editor Desktop app 開発](#rpgsave-editor-desktop-app-開発)                | 2025/6  | 2025/7  |
-| 22  | [MaaS app リファクタリング](#maas-app-リファクタリング)                             | 2025/6  | ～      |
+| 22  | [MaaS app Backend Refactoring](#maas-app-backend-refactoring)                       | 2025/6  | 2025/7  |
 | 21  | [AI 記事生成 WP Plugin 開発](#ai-記事生成-wp-plugin-開発)                           | 2025/5  | 2025/5  |
 | 20  | [在庫表自動整理ツール作成・保守](#在庫表自動整理ツール作成保守)                     | 2025/2  | ～      |
 | 19  | [勤怠突合業務自動化ツール作成・保守](#勤怠突合業務自動化ツール作成保守)             | 2025/7  | 2025/9  |
@@ -74,17 +74,17 @@ layout: default
 
 ---
 
-### MaaS app リファクタリング
+### MaaS app Backend Refactoring
 
 - **役割**：PG
 - **担当工程**：バックエンド実装, 結合テスト
 - **規模**：2 名
-- **業務内容**：MaaS app のリファクタリングをする。
+- **業務内容**：MaaS app のバックエンドリファクタリング
 - **フロントエンド**：React, TypeScript, Vite
 - **バックエンド**：AWS（EC2）
-- **ツール**：GitHub, VSCode, chatGPT Plus, IntelliJ IDEA, Docker, Slack
+- **ツール**：GitHub, VSCode, ChatGPT, IntelliJ IDEA, Docker, Slack
 - **習得スキル**：React + Vite の実務経験
-- **成果**：作業中...
+- **成果**：要件に沿ったリファクタリングを完了
 
 ---
 
